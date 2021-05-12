@@ -21,7 +21,7 @@ https://ldtk.io
 - Entities' value fields
 - Import all entities in one script
 
-
+---
 
 New asset with [LDtkParser](https://github.com/evolutionleo/LDtkParser) by [Evoleo](https://twitter.com/Evoleodev) !
 What are the differences and why you should his version :
