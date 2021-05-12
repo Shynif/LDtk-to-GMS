@@ -1,6 +1,8 @@
 # LDtk to GMS
  Simple scripts to import easely .ldtk files to Game Maker Studio
 
+---
+
 ### Simple one script to import LDtk files to Game Maker
 
 To add the levels to your game, simply put the .ldtk files in the "datafiles" folder
@@ -11,7 +13,7 @@ LDtk to GMS is not linked to LDtk
 More information on LDtk at :
 https://ldtk.io
 
-
+---
 
 **Features :**
 - Tiles
