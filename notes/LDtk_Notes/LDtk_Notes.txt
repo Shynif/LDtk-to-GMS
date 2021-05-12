@@ -1,0 +1,34 @@
+			[ENGLISH]
+
+Hello hello ! Shynif's here :)
+Thank you so much for downloading my script
+
+How to use it :
+LDtk( file's name, tile set in GMS, optional : the number for the first tile)
+exemple : LDtk(file, tkTile, 93)
+		   LDtk("test.ldtk", tkTest)
+
+What is "the number for the first tile" :
+-> GMS delete the first tile for an empty one.
+    If you use this tile number 0 then you might have moved it,
+    so now you can give the new number of this tile 0.
+
+NEW : go in oLDtk_exemple to see how the new version works <3
+
+
+			[FRANCAIS]
+
+Salut salut ! C'est Shynif :)
+Merci infiniment d'avoir téléchargé mon script
+
+Comment l'utiliser :
+LDtk( le fichier LDtk, le tile set dans GMS, optionnel : le numéro de la première tile)
+exemple : LDtk(file, tkTile, 93)
+		   LDtk("test.ldtk", tkTest)
+
+Pourquoi le numéro de la première tile optionnel ?
+-> GMS supprime la première tile pour un élément vide.
+    Si vous utilisez cette tile vous l'avez donc déplacé à la fin,
+    donc vous pouvez donner le nouveau numéro de la tile 0.
+ 
+ NOUVEAU : Allez dans oLDtk_exemple pour voir les nouvelles fonctionnalités <3
